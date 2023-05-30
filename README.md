@@ -1,5 +1,5 @@
 
-# STA-395 Project: Student Performance Prediction
+# Student Performance Prediction
 
 # By: Brody Barton, Dean Mazlish, Shloke Meresh, and Tate McLean
 
